@@ -1,7 +1,16 @@
 ==========================
 Info Secure Program
+Author: Iftekhar Hyder
+Written in: Python
 ==========================
 
-This is a simple python program which encrypts data and keeps it in secure file with a key to unlock it. 
-blah blah blah.
+This is a simple python program which encrypts sensitive 
+data of the user and keeps it in a file. And a invidual password 
+is used by the user(which is called key) to unlock the
+data again. It can also decrypt the data (unlocks it) 
+and displays it on screen.
+
+Uses: People can store their passwords safely like this.
+
+All Hail Python!
 ==========================
