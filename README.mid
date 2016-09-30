@@ -12,5 +12,7 @@ and displays it on screen.
 
 Uses: People can store their passwords safely like this.
 
+>>> the password to see all decrypted stored data is: banana
+
 All Hail Python!
 ==========================

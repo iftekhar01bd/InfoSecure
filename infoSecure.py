@@ -1,5 +1,5 @@
 """
-(C) Iftekhar Hyder 2016
+Iftekhar Hyder 2016
 """
 
 import os, sys
@@ -128,7 +128,7 @@ class InfoSecure:
         f = open("data.txt", "a")
         f.close()
         pwd = self.getString("Enter Admin Password: ")
-        if pwd == "infosecureifty":
+        if pwd == "banana":
             global wordlist, keylist
             print ". . . Encrypted Codes . . . \n"
 
